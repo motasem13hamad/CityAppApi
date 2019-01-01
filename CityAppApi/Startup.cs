@@ -31,7 +31,7 @@ namespace CityAppApi
             app.UseStatusCodePages();
             app.UseMvc();
 
-           
+            //https://app.pluralsight.com/player?course=asp-dotnet-core-api-building-first&author=kevin-dockx&name=asp-dotnet-core-api-building-first-m2&clip=11&mode=live
 
 
         }
